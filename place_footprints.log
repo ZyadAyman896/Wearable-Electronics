@@ -1,0 +1,38 @@
+07-29 17:11:43 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 656:Plugin executed on: 'win32'
+07-29 17:11:43 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 657:Plugin executed with python version: '3.11.5 (main, Dec 24 2024, 05:27:06) [MSC v.1942 64 bit (AMD64)]'
+07-29 17:11:43 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 658:KiCad build version: 8.0.8
+07-29 17:11:43 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 659:Plugin version: 3.0.1
+07-29 17:11:43 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 660:Frame repr: <wx._core.Frame object at 0x0000029A291BFC70>
+07-29 17:11:43 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+07-29 17:11:43 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J14 on root level
+07-29 17:11:43 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J4 on root level
+07-29 17:11:43 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J7 on root level
+07-29 17:11:43 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J17 on root level
+07-29 17:11:43 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J8 on root level
+07-29 17:11:43 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J12 on root level
+07-29 17:11:43 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J1 on root level
+07-29 17:11:43 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J10 on root level
+07-29 17:11:43 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J6 on root level
+07-29 17:11:43 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J3 on root level
+07-29 17:11:43 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J2 on root level
+07-29 17:11:43 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J15 on root level
+07-29 17:11:43 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J5 on root level
+07-29 17:11:43 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J11 on root level
+07-29 17:11:43 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J16 on root level
+07-29 17:11:43 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J9 on root level
+07-29 17:11:43 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J13 on root level
+07-29 17:11:43 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 699:Reference footprint='J4'
+07-29 17:11:45 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 840:Reference designator is: J
+07-29 17:11:45 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 841:Reference number is: 4
+07-29 17:11:45 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 873:Sorted and filtered list:
+['J1', 'J2', 'J3', 'J4', 'J5', 'J6', 'J7', 'J8', 'J9', 'J10', 'J11', 'J12', 'J13', 'J14', 'J15', 'J16', 'J17']
+07-29 17:11:45 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 368:wx.Colour(240, 240, 240, 255)
+07-29 17:12:06 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 499:'44.5'
+07-29 17:12:06 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 551:Preparing config for reference circular
+07-29 17:12:06 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 565:Saving config file
+07-29 17:12:06 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 567:Saved the config file
+07-29 17:12:06 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 911:Footprints to place:
+['J1', 'J2', 'J3', 'J4', 'J5', 'J6', 'J7', 'J8', 'J9', 'J10', 'J11', 'J12', 'J13', 'J14', 'J15', 'J16', 'J17']
+07-29 17:12:06 com_github_MitjaNemec_PlaceFootprints.place_footprints 359:Starting placing with circular layout
+07-29 17:12:06 com_github_MitjaNemec_PlaceFootprints.place_footprints 369:reference footprint position at: VECTOR2I(78041044, 116125121)
+07-29 17:12:06 com_github_MitjaNemec_PlaceFootprints.place_footprints 374:rotation center at: (78041044, 160625121.0)

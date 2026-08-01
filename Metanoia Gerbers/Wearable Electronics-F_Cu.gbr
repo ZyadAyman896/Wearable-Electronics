@@ -1,0 +1,183 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.8*%
+%TF.CreationDate,2026-08-01T23:54:53+03:00*%
+%TF.ProjectId,Wearable Electronics,57656172-6162-46c6-9520-456c65637472,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L1,Top*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.8) date 2026-08-01 23:54:53*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 Aperture macros list*
+%AMHorizOval*
+0 Thick line with rounded ends*
+0 $1 width*
+0 $2 $3 position (X,Y) of the first rounded end (center of the circle)*
+0 $4 $5 position (X,Y) of the second rounded end (center of the circle)*
+0 Add line between two ends*
+20,1,$1,$2,$3,$4,$5,0*
+0 Add two circle primitives to create the rounded ends*
+1,1,$1,$2,$3*
+1,1,$1,$4,$5*%
+%AMRotRect*
+0 Rectangle, with rotation*
+0 The origin of the aperture is its center*
+0 $1 length*
+0 $2 width*
+0 $3 Rotation angle, in degrees counterclockwise*
+0 Add horizontal line*
+21,1,$1,$2,0,0,$3*%
+G04 Aperture macros list end*
+%TA.AperFunction,ComponentPad*%
+%ADD10C,8.000000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD11RotRect,1.700000X1.700000X358.000000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD12HorizOval,1.700000X0.000000X0.000000X0.000000X0.000000X0*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD13RotRect,1.700000X1.700000X357.000000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD14HorizOval,1.700000X0.000000X0.000000X0.000000X0.000000X0*%
+%TD*%
+%TA.AperFunction,Conductor*%
+%ADD15C,0.600000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.P, ,1,Pin_1*%
+%TO.N,A3*%
+X156057729Y-77050279D03*
+%TD*%
+%TO.P, ,1,Pin_1*%
+%TO.N,5V*%
+X79625094Y-117690231D03*
+%TD*%
+%TO.P, ,1,Pin_1*%
+%TO.N,MOSI*%
+X69680859Y-71367642D03*
+%TD*%
+%TO.P, ,1,Pin_1*%
+%TO.N,A0*%
+X140130450Y-121670810D03*
+%TD*%
+%TO.P, ,1,Pin_1*%
+%TO.N,MISO*%
+X78008325Y-57080280D03*
+%TD*%
+%TO.P, ,1,Pin_1*%
+%TO.N,SCL*%
+X138210312Y-49876049D03*
+%TD*%
+D11*
+%TO.P,J1,1,Pin_1*%
+%TO.N,TX*%
+X117091939Y-103484779D03*
+D12*
+%TO.P,J1,2,Pin_2*%
+%TO.N,SCL*%
+X117003294Y-106023233D03*
+%TO.P,J1,3,Pin_3*%
+%TO.N,SDA*%
+X116914649Y-108561684D03*
+%TO.P,J1,4,Pin_4*%
+%TO.N,A3*%
+X116826006Y-111100137D03*
+%TO.P,J1,5,Pin_5*%
+%TO.N,A2*%
+X116737360Y-113638589D03*
+%TO.P,J1,6,Pin_6*%
+%TO.N,A1*%
+X116648715Y-116177043D03*
+%TO.P,J1,7,Pin_7*%
+%TO.N,A0*%
+X116560071Y-118715495D03*
+%TD*%
+D10*
+%TO.P, ,1,Pin_1*%
+%TO.N,RX*%
+X106713889Y-41817262D03*
+%TD*%
+%TO.P, ,1,Pin_1*%
+%TO.N,3V3*%
+X67076785Y-87698415D03*
+%TD*%
+D13*
+%TO.P,J3,1,Pin_1*%
+%TO.N,5V*%
+X112593583Y-76883751D03*
+D14*
+%TO.P,J3,2,Pin_2*%
+%TO.N,GND*%
+X112460649Y-79420271D03*
+%TO.P,J3,3,Pin_3*%
+%TO.N,SCL*%
+X112327717Y-81956788D03*
+%TO.P,J3,4,Pin_4*%
+%TO.N,SDA*%
+X112194783Y-84493309D03*
+%TD*%
+D11*
+%TO.P,J2,1,Pin_1*%
+%TO.N,RX*%
+X102731648Y-103255690D03*
+D12*
+%TO.P,J2,2,Pin_2*%
+%TO.N,SCK*%
+X102643002Y-105794143D03*
+%TO.P,J2,3,Pin_3*%
+%TO.N,MISO*%
+X102554359Y-108332595D03*
+%TO.P,J2,4,Pin_4*%
+%TO.N,MOSI*%
+X102465713Y-110871050D03*
+%TO.P,J2,5,Pin_5*%
+%TO.N,3V3*%
+X102377070Y-113409501D03*
+%TO.P,J2,6,Pin_6*%
+%TO.N,GND*%
+X102288424Y-115947953D03*
+%TO.P,J2,7,Pin_7*%
+%TO.N,5V*%
+X102199780Y-118486406D03*
+%TD*%
+D10*
+%TO.P, ,1,Pin_1*%
+%TO.N,A2*%
+X156499853Y-93581457D03*
+%TD*%
+%TO.P, ,1,Pin_1*%
+%TO.N,GND*%
+X70547781Y-103867139D03*
+%TD*%
+%TO.P, ,1,Pin_1*%
+%TO.N,TX*%
+X123215306Y-42902870D03*
+%TD*%
+%TO.P, ,1,Pin_1*%
+%TO.N,A1*%
+X150940496Y-109156085D03*
+%TD*%
+%TO.P, ,1,Pin_1*%
+%TO.N,SCK*%
+X90934563Y-46765832D03*
+%TD*%
+%TO.P, ,1,Pin_1*%
+%TO.N,SDA*%
+X149673835Y-61795071D03*
+%TD*%
+D15*
+%TO.N,A0*%
+X139957138Y-121863293D02*
+X140130450Y-121670810D01*
+%TO.N,RX*%
+X102731648Y-103255690D02*
+X102236246Y-102809629D01*
+%TD*%
+M02*
